@@ -30,3 +30,5 @@ Time spent: `<Number of hours spent>`
 - [ ] Implement the restaurant detail page.
 
 ### Walkthrough
+
+![walkthrough](https://github.com/henryou007/YelpApp/blob/master/VideoWalkThrough.gif)
